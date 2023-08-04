@@ -1,4 +1,4 @@
 # POJ
-Peking Online Judge
+Solution for Problem set
 
 Practice!
